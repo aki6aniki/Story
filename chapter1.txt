@@ -6,3 +6,7 @@ Git Pattern
 4. git commit -m "Completed chapter1.txt"
 5. git diff chapter1.txt  --> show the difference
 6. git checkout chapter1.txt --> undo to last git saving point
+
+GitHub
+git remote add origin https://github.com/aki6aniki/Story.git
+git push -u origin master
