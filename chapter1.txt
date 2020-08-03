@@ -1,0 +1,8 @@
+Git Pattern
+
+1. git init
+2. git status
+3. git add . /// or git add chapter1.txt
+4. git commit -m "Completed chapter1.txt"
+5. git diff chapter1.txt  --> show the difference
+6. git checkout chapter1.txt --> undo to last git saving point
